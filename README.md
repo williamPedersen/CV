@@ -1,5 +1,6 @@
 # Full Stack developer
-Welcome to my CV repository! Feel free to explore, and don't hesitate to reach out for collaboration!
+Junior Full Stack Developer with a steep learning curve, contributed to developing a platform for speakers and competence management at Youandx, working across both backend and frontend. Skilled in building data models in MySQL databases, with a solid foundational understanding of coding. Prioritizes Unit and Playwright tests for reusable components. Thrives in an agile environment where knowledge is shared, and colleagues support each other's growth.
 
 ## Work experience
 Full Stack developer @ Youandx (October 2023 - present)
+
