@@ -13,5 +13,5 @@ Junior Full Stack Developer with a steep learning curve, contributed to developi
 - Swush develops fantasy sports games, where, as a student developer, I used C# and React to solve smaller issues and implement improvements. A Kanban board was used in the development of various features.
 
 ## Education
-- M.S., Computer Science | University of Copenhagen (_September 2021 - June 2023_)
-- B.S., Computer Science | University of Copenhagen (_September 2028 - June 2021_)
+- M.S., Computer Science | University of Copenhagen (_2021 - 2023_)
+- B.S., Computer Science | University of Copenhagen (_2018 - 2021_)
