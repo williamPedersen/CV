@@ -7,11 +7,11 @@ Junior Full Stack Developer with a steep learning curve, contributed to developi
 **Full Stack developer @ Youandx (_October 2023 - present_)**
 - Implemented both backend and frontend solutions, including data modeling and SQL queries. Web development involved React, TypeScript, and Next.js.
 - Utilized Unit tests, Playwright, feature reviews, and code reviews to ensure bugs were prevented from being released.
-- Agile development practices were applied through daily stand-up meetings to keep everyone updated, with the Kanban board playing a key role in the development process.
+- Agile development practices were applied through daily stand-up meetings to keep everyone updated, with a Kanban board playing a key role in the development process.
 
 **Web developer @ Swush (_February 2021 - November 2022_)**
 - Swush develops fantasy sports games, where, as a student developer, I used C# and React to solve smaller issues and implement improvements. A Kanban board was used in the development of various features.
 
 ## Education
-- M.S., Computer Science | University of Copenhagen (_2021 - 2023_)
-- B.S., Computer Science | University of Copenhagen (_2018 - 2021_)
+- M.S., Computer Science, University of Copenhagen (_2021 - 2023_)
+- B.S., Computer Science, University of Copenhagen (_2018 - 2021_)
